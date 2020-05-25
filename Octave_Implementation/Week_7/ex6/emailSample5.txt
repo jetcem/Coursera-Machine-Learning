@@ -1,0 +1,7 @@
+Natural Language Processing with Deep Learning (XCS224N)
+
+Natural language processing (NLP) is undergoing rapid evolution as new methods and toolsets converge with an ever-expanding availability of data. Our upcoming course, Natural Language Processing with Deep Learning, provides a thorough introduction to the modern neural network algorithms for the processing of linguistic information.
+
+"I have taken several online courses in AI, and most of them helped me learn something new. But, XCS224N goes right at the top of my list. It is one of the best advanced courses I have taken as it strikes a good balance between theory and practice, beginner and advanced concepts. It makes you work a lot harder than other courses, but the end result is worth it." --Ashish K.
+
+This cohort-based 10-week course begins June 8, 2020.
